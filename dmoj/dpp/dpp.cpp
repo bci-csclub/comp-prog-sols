@@ -1,8 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 typedef long long ll;
 typedef pair<int, int> pii;
 typedef vector<int> vi;
+#define pb push_back
 
 const int MOD = 1e9 + 7;
 const int MN = 1e5 + 5;
